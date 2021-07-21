@@ -2,7 +2,7 @@
 layout:     post
 title:      "NVMe 2.0"
 date:       2021-07-16
-author:     김 성은(plumno1@gluesys.com)
+author:     김 성은(plumno1@gluesys.com), 정 현호(jhh9977@gluesys.com)
 categories: blog
 tags:       [NVMe, NVMe 2.0, Key, Value]
 cover:      "/assets/Flash_memory_NVMe.jpg"
